@@ -1,6 +1,5 @@
-### A modified example for using a webcam for the latest mediapipe (early release) hand landmark detection.
-Note: This is a barely running example, just to show how to use a webcam with mediapipe. The C wrappers are quite annoying to get into and luckily there was an example on
-how to convert a cv2 frame to a mediapipe compatible one.
+### A modified example for using a webcam with the latest MediaPipe (early release) hand landmark detection.
+Note: This is a basic example, intended only to demonstrate how to use a webcam with MediaPipe. The C wrappers can be somewhat challenging to work with, but fortunately, there is an example on how to convert a cv2 frame to a MediaPipe compatible format.
 
 ## Usage:
 Just do ```pip install mediapipe opencv-python numpy``` and you should be good to go.
