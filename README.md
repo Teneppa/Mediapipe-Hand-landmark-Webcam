@@ -2,6 +2,13 @@
 
 This project provides a modified example for using a webcam with the latest MediaPipe (early release) hand landmark detection in real-time.
 
+<div style="position: relative;">
+  <img src="peace.png" alt="Alt Text">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0, 0, 0, 0.7); color: #fff; padding: 10px;">
+    A screenshot of the output
+  </div>
+</div>
+
 ## Installation
 
 To get started, install the required dependencies using pip:
